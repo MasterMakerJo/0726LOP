@@ -1,0 +1,39 @@
+﻿  SplitCard.cpp
+  RecommendCards.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\sal_supp.h(57): warning C4005: “__useHeader”: 宏重定义
+          c:\win10\vc\include\sal.h(2886) : 参见“__useHeader”的前一个定义
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\specstrings_supp.h(77): warning C4005: “__on_failure”: 宏重定义
+          c:\win10\vc\include\sal.h(2896) : 参见“__on_failure”的前一个定义
+  PokerModelAnalysis.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\sal_supp.h(57): warning C4005: “__useHeader”: 宏重定义
+          c:\win10\vc\include\sal.h(2886) : 参见“__useHeader”的前一个定义
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\specstrings_supp.h(77): warning C4005: “__on_failure”: 宏重定义
+          c:\win10\vc\include\sal.h(2896) : 参见“__on_failure”的前一个定义
+\\mac\home\desktop\league-of-players\project1\pokermodelanalysis.cpp(1081): warning C4305: “=”: 从“double”到“float”截断
+\\mac\home\desktop\league-of-players\project1\pokermodelanalysis.cpp(1202): warning C4305: “=”: 从“double”到“float”截断
+\\mac\home\desktop\league-of-players\project1\pokermodelanalysis.cpp(1269): warning C4305: “初始化”: 从“double”到“float”截断
+\\mac\home\desktop\league-of-players\project1\pokermodelanalysis.cpp(1331): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+\\mac\home\desktop\league-of-players\project1\pokermodelanalysis.cpp(1390): warning C4305: “=”: 从“double”到“float”截断
+\\mac\home\desktop\league-of-players\project1\pokermodelanalysis.cpp(1647): warning C4305: “=”: 从“double”到“float”截断
+  MonteCarloSearchEngine.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\sal_supp.h(57): warning C4005: “__useHeader”: 宏重定义
+          c:\win10\vc\include\sal.h(2886) : 参见“__useHeader”的前一个定义
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\specstrings_supp.h(77): warning C4005: “__on_failure”: 宏重定义
+          c:\win10\vc\include\sal.h(2896) : 参见“__on_failure”的前一个定义
+\\mac\home\desktop\league-of-players\project1\montecarlosearchengine.cpp(822): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  DouDzMain.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\sal_supp.h(57): warning C4005: “__useHeader”: 宏重定义
+          c:\win10\vc\include\sal.h(2886) : 参见“__useHeader”的前一个定义
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\specstrings_supp.h(77): warning C4005: “__on_failure”: 宏重定义
+          c:\win10\vc\include\sal.h(2896) : 参见“__on_failure”的前一个定义
+  CardsInfo.cpp
+  CallNum.cpp
+  BoardMessageControl.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\sal_supp.h(57): warning C4005: “__useHeader”: 宏重定义
+          c:\win10\vc\include\sal.h(2886) : 参见“__useHeader”的前一个定义
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\specstrings_supp.h(77): warning C4005: “__on_failure”: 宏重定义
+          c:\win10\vc\include\sal.h(2896) : 参见“__on_failure”的前一个定义
+\\mac\home\desktop\league-of-players\project1\boardmessagecontrol.cpp(1595): warning C4101: “i”: 未引用的局部变量
+\\mac\home\desktop\league-of-players\project1\boardmessagecontrol.cpp(1595): warning C4101: “k”: 未引用的局部变量
+  正在生成代码...
+  Project1.vcxproj -> \\Mac\Home\Desktop\League-Of-Players\Debug\LeagueOfPlayers.exe
